@@ -1,2 +1,3 @@
 nama adi surya
 alamat malang
+umur 30
